@@ -1,0 +1,23 @@
+User Strategy
+      ↓
+Strategy Orchestrator
+      ↓
+Market Intelligence
+      ↓
+Technical Agent
+      ↓
+Sentiment Agent
+      ↓
+Whale Agent
+      ↓
+Narrative Agent
+      ↓
+Risk Agent
+      ↓
+Decision Agent
+      ↓
+Execution Agent
+      ↓
+Trust Wallet Agent Kit
+      ↓
+BNB Chain
